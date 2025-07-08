@@ -2,6 +2,7 @@
   A detailed interactive Power BI dashboard created to analyze and visualize sales data for Classic Models Inc. This report provides actionable insights into top-selling products, sales trends, product performance, profit margins, and customer distribution across multiple dimensions.
 
 # 📊 Dashboard Overview
+https://github.com/buildwithaman53/Classic-Models-Sales-Intelligence-Dashboard/blob/80b5a68601f5c56514a4d9de51f411eedd88f0b4/Classic%20Model%20Sales%20Dashboard.png
 
 # 🔝Top & Bottom Selling Products
 - Top Sellers: Includes premium models like 1992 Ferrari 360 Spider Red and 2001 Ferrari Enzo.
